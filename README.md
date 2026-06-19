@@ -49,6 +49,17 @@ The dataset contains information about student demographics and examination perf
 - 8 Original Features
 
 ---
+## Project Structure
+     Student-Performance-Predictor/
+     │
+     ├── README.md
+     ├── notebook.ipynb
+     ├── requirements.txt
+     │
+     └── images/
+         ├── scatter_plot.png
+         ├── correlation_heatmap.png
+         └── model_comparison.png
 
 ##  Exploratory Data Analysis
 
